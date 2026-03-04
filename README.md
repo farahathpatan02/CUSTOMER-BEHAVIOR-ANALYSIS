@@ -1,5 +1,3 @@
-# CUSTOMER-BEHAVIOR-ANALYSIS
-Data analytics project on customer behavior  by using BI tools such as Python, Power BI, SQL 
 📊 Customer Behavior Analysis – Data Analytics Project
 📌 Overview
 
@@ -40,6 +38,7 @@ Power BI – Dashboard creation
 Gamma – Presentation (PPT generation)
 
 🔄 Project Workflow / Steps
+
 1️⃣ Data Loading
 
 Loaded dataset into Python
@@ -155,8 +154,12 @@ Customer-Behavior-Analysis/
 ├── dashboard/
 ├── presentation/
 └── README.md
+
+
+
 👤 Author
 
 Farahath Patan
-Data Analyst | SQL | Python | Power BI
+Data Analyst Intern
+| SQL | Python | Power BI
 Always learning and building analytics solutions.
