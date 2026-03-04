@@ -39,6 +39,9 @@ Gamma – Presentation (PPT generation)
 
 **🔄 Project Workflow / Steps**
 
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/e262424f-8108-44d9-83bb-7e20423a6049" />
+
+
 **1️⃣ Data Loading**
 
 Loaded dataset into Python
@@ -153,7 +156,7 @@ Refresh the dataset
 
 Interact with dashboard visuals
 
-📁 Project Structure
+**📁 Project Structure**
 
 
 Customer-Behavior-Analysis/
