@@ -1,4 +1,6 @@
 **📊 Customer Behavior Analysis – Data Analytics Project**
+
+
 **📌 Overview**
 
 This project analyzes customer behavior data to identify key revenue drivers and business insights. The objective is to understand customer demographics, purchasing patterns, and operational performance to support strategic decision-making.
