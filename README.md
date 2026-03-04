@@ -1,11 +1,11 @@
-📊 Customer Behavior Analysis – Data Analytics Project
-📌 Overview
+**📊 Customer Behavior Analysis – Data Analytics Project**
+**📌 Overview**
 
 This project analyzes customer behavior data to identify key revenue drivers and business insights. The objective is to understand customer demographics, purchasing patterns, and operational performance to support strategic decision-making.
 
 The project covers end-to-end data analytics including data cleaning, SQL analysis, dashboard creation, and reporting.
 
-📂 Dataset
+**📂 Dataset**
 
 The dataset contains customer-level transactional data including:
 
@@ -23,7 +23,7 @@ Review rating
 
 Order details
 
-🛠 Tools & Technologies Used
+**🛠 Tools & Technologies Used**
 
 Python – Data cleaning and EDA
 
@@ -37,15 +37,16 @@ Power BI – Dashboard creation
 
 Gamma – Presentation (PPT generation)
 
-🔄 Project Workflow / Steps
+**🔄 Project Workflow / Steps**
 
-1️⃣ Data Loading
+**1️⃣ Data Loading**
 
 Loaded dataset into Python
 
 Connected to PostgreSQL database
 
-2️⃣ Data Cleaning
+**2️⃣ Data Cleaning**
+
 
 Handled missing values
 
@@ -55,7 +56,8 @@ Standardized column formats
 
 Corrected data inconsistencies
 
-3️⃣ Exploratory Data Analysis (EDA)
+**3️⃣ Exploratory Data Analysis (EDA)**
+
 
 Analyzed revenue distribution
 
@@ -65,7 +67,8 @@ Identified high-performing categories
 
 Examined subscription impact
 
-4️⃣ SQL Analysis
+**4️⃣ SQL Analysis**
+
 
 Revenue by category
 
@@ -79,7 +82,8 @@ Average order value
 
 Repeat customer analysis
 
-5️⃣ Dashboard Creation (Power BI)
+**5️⃣ Dashboard Creation (Power BI)**
+
 
 Built an interactive dashboard including:
 
@@ -97,7 +101,8 @@ Sales by Gender
 
 Subscription Impact
 
-6️⃣ Reporting & Presentation
+**6️⃣ Reporting & Presentation**
+
 
 Created executive-level insights
 
@@ -105,7 +110,7 @@ Designed presentation for CEO & CMO
 
 Highlighted expansion opportunities
 
-📊 Key Insights
+**📊 Key Insights**
 
 The majority of revenue comes from specific product categories.
 
@@ -115,7 +120,8 @@ Subscription customers show higher average purchase value.
 
 Certain categories have higher profit potential and growth opportunity.
 
-🚀 Business Recommendations
+**🚀 Business Recommendations**
+
 
 Focus marketing efforts on high-performing demographics.
 
@@ -125,8 +131,10 @@ Promote subscription model to increase customer lifetime value.
 
 Improve operations in underperforming segments.
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
+
 Python
+
 pip install pandas numpy psycopg2 sqlalchemy
 
 Run the Jupyter Notebook or Python script to perform data cleaning and EDA.
@@ -146,6 +154,8 @@ Refresh the dataset
 Interact with dashboard visuals
 
 📁 Project Structure
+
+
 Customer-Behavior-Analysis/
 │
 ├── data/
@@ -162,4 +172,4 @@ Customer-Behavior-Analysis/
 Farahath Patan
 Data Analyst Intern
 | SQL | Python | Power BI
-Always learning and building analytics solutions.
+**Always learning and building analytics solutions.**
